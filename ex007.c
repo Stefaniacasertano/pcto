@@ -1,7 +1,7 @@
-#include <stdio.h>
+nclude <stdio.h>
 
 int main()
-{
+{#i
     int a;
     int b;
     int c;
